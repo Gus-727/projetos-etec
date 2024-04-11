@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Diga Olá</title>
+</head>
+<body>
+      
+      <h1>Exemplo de Requisição Síncrona</h1>
+      <form method="GET" action="https://aluno.etecarmine.com.br/2DS-M/Prof.Anderson/api-ajax-01/resposta.php">
+            <label>Informe o seu nome:</label><br/>
+            <input type="text" name="nome"> <br/>
+            <button type="submit">Enviar</button>
+      </form>
+
+
+      <br/><br/><br/><hr/><br/><br/><br/>
+
+      <label>Informe o seu nome</label><br/>
+      <input type="text" id="nome"><br/>
+      <button type="button" id="btnEnviar">Enviar</button>
+
+      <!-- Aqui deverá aparecer a resposta do arquivo resposta.php que está no servidor -->
+      <div id="resposta"> aguardando.... </div>
+
+
+      <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+      <script>
+            $('#btnEnviar').click( function() {
+                  $('#resposta').html('<img src="load.gif" width="16px">');
+                  $('#resposta').load("https://aluno.etecarmine.com.br/2DS-M/Prof.Anderson/api-ajax-01/resposta.php?nome=" + $('#nome').val())
+            });
+      </script>
+</body>
+</html>

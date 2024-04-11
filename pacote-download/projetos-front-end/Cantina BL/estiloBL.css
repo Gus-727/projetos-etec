@@ -1,0 +1,104 @@
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: limegreen;
+}
+
+@media screen and (max-width: 768px) {
+     .col-sm-4 {
+         text-align: center;
+         margin: 25px 0;
+     }
+ }
+
+.navbar {
+     margin-bottom: 0;
+     background-color: green;
+     z-index: 9999;
+     border: 0;
+     font-size: 12px !important;
+     line-height: 1.42857143 !important;
+     letter-spacing: 4px;
+     border-radius: 0;
+ }
+
+ .navbar li a,
+ .navbar .navbar-brand {
+     color: #fff !important;
+ }
+
+ .navbar-nav li a:hover,
+ .navbar-nav li.active a {
+     color: green !important;
+     background-color: #fff !important;
+ }
+
+ .navbar-default .navbar-toggle {
+     border-color: transparent;
+     color: #fff !important;
+ }
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+ .jumbotron {
+     background-color: green;
+     color: #fff;
+     padding: 100px 25px;
+     margin-bottom: 0;
+    border-radius: 0;
+ }
+
+.container-fluid {
+     padding: 60px 50px;
+ }
+
+ .bg-grey {
+     background-color: #f6f6f6;
+ }
+
+h1, h2, h3 {
+    font-family: 'Teko', sans-serif;
+}
+
+p {
+    font-family: 'Teko', sans-serif;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("burgers4.jpg");
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+footer .glyphicon {
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: lawngreen;
+  }
+

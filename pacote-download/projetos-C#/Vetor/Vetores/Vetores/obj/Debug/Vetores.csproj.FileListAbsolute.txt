@@ -1,0 +1,7 @@
+A:\Etec 2º DS\D.S\Projetos VS\Vetor\Vetores\Vetores\bin\Debug\Vetores.exe.config
+A:\Etec 2º DS\D.S\Projetos VS\Vetor\Vetores\Vetores\bin\Debug\Vetores.exe
+A:\Etec 2º DS\D.S\Projetos VS\Vetor\Vetores\Vetores\bin\Debug\Vetores.pdb
+A:\Etec 2º DS\D.S\Projetos VS\Vetor\Vetores\Vetores\obj\Debug\Vetores.csprojAssemblyReference.cache
+A:\Etec 2º DS\D.S\Projetos VS\Vetor\Vetores\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+A:\Etec 2º DS\D.S\Projetos VS\Vetor\Vetores\Vetores\obj\Debug\Vetores.exe
+A:\Etec 2º DS\D.S\Projetos VS\Vetor\Vetores\Vetores\obj\Debug\Vetores.pdb

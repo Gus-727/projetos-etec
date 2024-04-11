@@ -1,0 +1,29 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+    background-color: #143F3A;
+}
+
+.container-contact1 {
+  width: 640px;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-top: 70px;
+  background-color: #357556;
+  color: #fff;
+  font-family: 'Spartan', sans-serif;
+}
+
+
+.form-style {
+  display: block;
+  background: #e6e6e6;
+  font-family:;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #666666;
+  border-radius: 20px;
+  margin-left: 24px;
+}

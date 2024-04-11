@@ -1,0 +1,7 @@
+A:\Etec 2º DS\D.S\Projetos VS\Matrizes\Matriz\Matriz\obj\Debug\Matriz.csprojAssemblyReference.cache
+A:\Etec 2º DS\D.S\Projetos VS\Matrizes\Matriz\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+A:\Etec 2º DS\D.S\Projetos VS\Matrizes\Matriz\Matriz\bin\Debug\Matriz.exe.config
+A:\Etec 2º DS\D.S\Projetos VS\Matrizes\Matriz\Matriz\bin\Debug\Matriz.exe
+A:\Etec 2º DS\D.S\Projetos VS\Matrizes\Matriz\Matriz\bin\Debug\Matriz.pdb
+A:\Etec 2º DS\D.S\Projetos VS\Matrizes\Matriz\Matriz\obj\Debug\Matriz.exe
+A:\Etec 2º DS\D.S\Projetos VS\Matrizes\Matriz\Matriz\obj\Debug\Matriz.pdb

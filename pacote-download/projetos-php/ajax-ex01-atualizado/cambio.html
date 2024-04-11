@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Document</title>
+
+      <link rel="preconnect" href="https://aluno.etecarmine.com.br" crossorigin>
+      <link rel="preconnect" href="https://code.jquery.com" crossorigin>
+
+</head>
+<body>
+      
+      Valor do BitCoin: 176.987,47
+
+      <br>
+      
+      <label>Qts BitCoins Deseja Comprar?</label> <br>
+      <input type="number" id="txtQtdBC"><br>
+      
+      <br>
+      
+      <button id="btnCalcular">Calcular</button>
+      <button id="btnCalcular2">Calcular</button>
+      
+      <p id="total"></p>
+      
+      <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+      <script>      
+
+            $('#btnCalcular').click(
+                  function(){
+                        var qtdBC = $('#txtQtdBC').val();
+                        var qtdBC = qtdBC * 176987.47;
+                        $('#total').html(qtdBC);
+                  });
+
+           $('#btnCalcular2').click(
+                 function(){
+                        $('#total').html('<img src="load.gif">');
+                        $('#total').load('https://aluno.etecarmine.com.br/2DS-M/Prof.Anderson/api-ajax-01/cambio.php?qtd=' +  $('#txtQtdBC').val());
+                 });
+      </script>
+      
+
+</body>
+</html>

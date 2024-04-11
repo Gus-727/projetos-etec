@@ -1,0 +1,7 @@
+A:\Etec 2º DS\D.S\Projetos VS\Lista_exercicios\ExerciciosL\ExerciciosL\bin\Debug\ExerciciosL.exe.config
+A:\Etec 2º DS\D.S\Projetos VS\Lista_exercicios\ExerciciosL\ExerciciosL\bin\Debug\ExerciciosL.exe
+A:\Etec 2º DS\D.S\Projetos VS\Lista_exercicios\ExerciciosL\ExerciciosL\bin\Debug\ExerciciosL.pdb
+A:\Etec 2º DS\D.S\Projetos VS\Lista_exercicios\ExerciciosL\ExerciciosL\obj\Debug\ExerciciosL.csprojAssemblyReference.cache
+A:\Etec 2º DS\D.S\Projetos VS\Lista_exercicios\ExerciciosL\ExerciciosL\obj\Debug\ExerciciosL.csproj.CoreCompileInputs.cache
+A:\Etec 2º DS\D.S\Projetos VS\Lista_exercicios\ExerciciosL\ExerciciosL\obj\Debug\ExerciciosL.exe
+A:\Etec 2º DS\D.S\Projetos VS\Lista_exercicios\ExerciciosL\ExerciciosL\obj\Debug\ExerciciosL.pdb
